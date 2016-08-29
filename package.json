@@ -1,0 +1,15 @@
+{
+  "name": "swaggering",
+  "version": "1.0.0",
+  "description": "Swagger codegen playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Norbert Csaba Herczeg",
+  "license": "ISC",
+  "devDependencies": {
+    "swagger-js-codegen": "1.6.9"
+  }
+}
